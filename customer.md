@@ -3,7 +3,7 @@
 
 ## Synchronization of Customers and Facilities
 
-This document covers the APIs used to create, update, delete, or retrieve customers and facilities from Cubit Tilsyn.
+This document covers the APIs used to create, update, delete, or retrieve customers and plants from Cubit Core.
 
 ### Endpoints for Creation and Updating:
 The endpoints for creating and updating are 'upsert' endpoints. That means there are no separate endpoints for update and insert; the same endpoint is used for both. If an element does not exist, it will be created. If it exists, it will be updated.
