@@ -30,7 +30,7 @@ The endpoints for creating and updating are 'upsert' endpoints. That means there
 }
 ```
 
-- **BirthDate and OrganizationNumber**: BirthDate is used for private customers, and OrganizationNumber for corporate customers. It's possible to use both, but it doesn't make sense for most customers.
+- **SocialSecurityNumber and OrganizationNumber**: SocialSecurityNumber is used for private customers, and OrganizationNumber for corporate customers. It's possible to use both, but it doesn't make sense for most customers. SocialSecurityNumbers are transformed as ExternalHashID and not saved as string in customer database.
 - **AcceptElectronicCommunication**: Indicates whether the customer has consented to receive electronic communication, like documents via email instead of letters.
 
 ### Deletion
