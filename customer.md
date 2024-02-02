@@ -1,7 +1,7 @@
 
-# API Documentation
 
-## Synchronization of Customers and Facilities
+
+## Synchronization of Customers 
 
 This document covers the APIs used to create, update, delete, or retrieve customers and plants from Cubit Core.
 
