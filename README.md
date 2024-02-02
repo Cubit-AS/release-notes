@@ -2,7 +2,7 @@
 # API Specification: Customers and Installations
 
 ## Overview
-This API provides the functionality to create, update, delete, and retrieve customers and installations data from Cubit Tilsyn. The API uses "upsert" endpoints for creating and updating, meaning the same endpoint handles both insertions and updates.
+This API provides the functionality to create, update, delete, and retrieve customers and plant data from Cubit Core. The API uses "upsert" endpoints for creating and updating, meaning the same endpoint handles both insertions and updates.
 
 ## Endpoints
 ### Customers
@@ -25,4 +25,4 @@ This API provides the functionality to create, update, delete, and retrieve cust
 - Describe scenarios where these examples can be applied.
 
 ## Contact
-For further information or queries, contact Øyvind Bråthen at [brathen@cubit.no](mailto:brathen@cubit.no).
+For further information or queries, contact Mindaugas Guzas at mindaugas@cubit.no
