@@ -1,6 +1,25 @@
 
 # API Specification: Customers and Installations
 
+# Testing mermaid
+
+```mermaid
+sequenceDiagram
+  participant A as AuditService.AuditContreller.SetStatus
+  A->>+AuditDB: Start transaction
+  A->>+AuditDB: 1. Query for authentication is not needed when JWT Tokens are indroduced
+  A->>+AuditDB: 2. Sets new Audit Status
+  A->>+AuditDB: 3. Updates History
+  A->>+AuditDB: 6. MarkAudit to update Last Audit Date (requires rewrite)
+  A->>+AuditDB: 7. Save after more logic is performed
+  A->>+AuditDB: Save notifications needed for Archive and Lantern 
+  AuditDB->>+A: Commit transaction
+  A->>+ServiceBus: Send notifications that audit status was updated
+  ServiceBus->>+Archive: 4. Save Case (3rd party call)
+  ServiceBus->>+LanterService: 5. Send notifications
+```
+
+
 ## Overview
 This API provides the functionality to create, update, delete, and retrieve customers and plant data from Cubit Core. The API uses "upsert" endpoints for creating and updating, meaning the same endpoint handles both insertions and updates.
 
