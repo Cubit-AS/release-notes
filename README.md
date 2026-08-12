@@ -1,5 +1,11 @@
 # Release Notes
 
+12. august 2026
+
+🚀 Endringer på mobilkalender
+
+Vi har i løpet av sommeren gjort noen små og større justeringer på mobilkalenderen. Noen av endringene er små justeringer på symboler som er synlige, mens noen er større. Den største endringen er nok den at man nå har fått en enkel og en avansert kalender. Den avanserte gir litt mer info per avtale enn den enkle. En annen endring er den at man nå kan se og planlegge andres kalendere, noe man tidligere ikke har kunnet gjøre
+
 17. juni 2026
 
 🚀 Ny sidemannskontroll
