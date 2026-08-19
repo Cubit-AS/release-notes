@@ -12,6 +12,6 @@ Vi har i løpet av sommeren gjort noen små og større justeringer på mobilkale
 
 Vi lanserer nå en ny versjon av sidemannskontroll! Det finnes nå to forskjellige versjoner, hvor man enten kan ha en obligatorisk eller en valgfri sidemannskontroll. Nå kan man blant annet legge inn kommentarer til hvert avvik, eller andre deler av rapporten. Se vedlagt brukerbeskrivelse, og henvend deg i chatten om det skulle være noen andre spørsmål!
 
-Sidemannskontroll kan settes opp på de sakstypene dere selv vil, bare gi oss en lyd, så fikser vi det!
+Sidemannskontroll kan settes opp på de sakstypene dere selv vil, dersom dere har nye saksinnstillinger. Bare gi oss en lyd, så fikser vi det!
 
 [Brukerbeskrivelse av sidemannskontroll](https://cubitas.freshdesk.com/nb-NO/support/solutions/articles/44002502792-saksgang-utføre-sidemannskontroll)
