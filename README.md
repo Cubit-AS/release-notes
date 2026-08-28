@@ -1,5 +1,13 @@
 # Release Notes
 
+28 august 2026
+
+🚀 Redigering av informasjonstekst i brevhode
+
+Informasjonsteksten i brevhodet i malene våre har frem til nå vært hardkodet, vi har nå åpnet opp for at dere kan redigere denne teksten selv.
+
+[Brukerbeskrivelse](https://cubitas.freshdesk.com/a/solutions/articles/44002838969)
+
 12 august 2026
 
 🚀 Endringer på mobilkalender
