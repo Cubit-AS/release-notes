@@ -1,5 +1,33 @@
 # Release Notes
 
+_1. september 2026_
+
+🚀 **Oppdatert dashboard for el er tilgjengelig!**
+
+Vi har gjort forbedringer av dashboardet. Vi har ryddet og laget en bedre oversikt til sakene som er viktige for dere.
+
+Dashboardet skiftes ut 1. oktober, men om dere vil ha tilgang allerede nå - gi oss beskjed i chatbobla! 👏
+
+**Ny oversikt over planlagte og pågående aktiviteter**
+- Mulighet for å annullere flere saker samtidig
+- Søke opp andres aktiviteter og mulighet til å overføre de til deg selv
+- Kan se saker hvor frist har passert
+- Se antall registrerte og åpne avvik
+
+**Øyeblikkelig oversikt over dine viktige saker**
+- Delvise frakoblinger klar for vedtak
+- Saker klar for godkjennelse av vedtak
+- Saker som er klare for vedtak
+- Antall saker med saksgang etter vedtak
+- Bekymringsmeldinger
+- Dokumentkontroller
+- Jordfeilsaker
+- Alle rettemeldinger
+- Dine rettemeldinger
+- Omdøpt “Vedtak” til “Vedtak uten forhåndsvarsel”
+
+--------
+
 28 august 2026
 
 🚀 Redigering av informasjonstekst i brevhode
@@ -8,11 +36,15 @@ Informasjonsteksten i brevhodet i malene våre har frem til nå vært hardkodet,
 
 [Brukerbeskrivelse](https://cubitas.freshdesk.com/a/solutions/articles/44002838969)
 
+--------
+
 12 august 2026
 
 🚀 Endringer på mobilkalender
 
 Vi har i løpet av sommeren gjort noen små og større justeringer på mobilkalenderen. Noen av endringene er små justeringer på symboler som er synlige, mens noen er større. Den største endringen er nok den at man nå har fått en enkel og en avansert kalender. Den avanserte gir litt mer info per avtale enn den enkle. En annen endring er den at man nå kan se og planlegge andres kalendere, noe man tidligere ikke har kunnet gjøre
+
+--------
 
 17 juni 2026
 
