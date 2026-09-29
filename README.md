@@ -1,5 +1,15 @@
 # Release Notes
 
+_29. september 2026_
+
+**Søke med matrikkel for DLE**
+
+For DLE er det nå mulig å søke med matrikkel!
+Dette gjør at dere kan søke med gårds- og bruksnummeret for å finne en eiendom.
+I søkefeltet skriver dere inn matrikkelnummeret (med dette formatet: 1/1) og foreslått matrikkelnummer dukker opp i en nedtrekksmeny. Trykk på denne, og søk! Dere kan også søke etter festeeiendom (format 1/1/1) og seksjon (format 1/1/1/1).
+
+--------
+
 _1. september 2026_
 
 🚀 **Oppdatert dashboard for el er tilgjengelig!**
