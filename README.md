@@ -1,5 +1,12 @@
 # Release Notes
 
+_7. oktober 2026_
+
+**Sende brev til utenlandske adresser via SvarUT**
+
+For brukerne våre som bruker SvarUT, så har det vært problematisk å sende brev til utenlandske adresser. 
+Dette har vi nå løst, ved at man kan velge hvilket land dokumentmottakeren tilhører inne på tilsynet. Når man er i redigeringsmodus velger man enkelt og greit bare landet det skal sendes til, så sendes det.
+
 _29. september 2026_
 
 **Søke med matrikkel for DLE**
